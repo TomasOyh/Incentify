@@ -43,4 +43,3 @@ npm run start
 0xFD03711f60AaE05306C339A017dBE94371f5Dbe8
 
 [contract](https://sepolia.scrollscan.dev/address/0xFD03711f60AaE05306C339A017dBE94371f5Dbe8)
-# Incentify
