@@ -23,8 +23,8 @@ Hay que tener instalado:
 ### Clonar el Repositorio
 
 ```bash
-git clone https://github.com/Teo2423/IncentifyVF.git
-cd IncentifyVF
+git clone https://github.com/TomasOyh/Incentify.git
+cd Incentify/my-courses-app
 ```
 
 ### Instalar dependencias
